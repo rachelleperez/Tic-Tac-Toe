@@ -1,6 +1,6 @@
 ## Background ##
 
-First attempt at doing the game Tic Tac Toe. Currently set up as a two-player game. 
+First attempt at doing the game Tic Tac Toe using Python. Currently set up as a two-player game. 
 
 ## Next Steps ##
 
